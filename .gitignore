@@ -1,1 +1,2 @@
+# rule for ignore appsettings file on root of configmap
 /appsettings.json
